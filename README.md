@@ -15,3 +15,5 @@ etc
 
 compile with pyinstaller
 enter your webhook in "WEBHOOKHERE"
+
+![alt text](https://cdn.discordapp.com/attachments/990015220732813324/993969029154885702/unknown.png))
